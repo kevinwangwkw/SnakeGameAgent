@@ -1,0 +1,8 @@
+gymnasium
+torch
+numpy
+pygame
+wandb
+tyro
+tensorboard
+moviepy
